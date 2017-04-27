@@ -1,0 +1,13 @@
+cmd git:
+
+git init
+
+git add .
+
+git commit -m "message"
+
+git -a -m "message"
+
+git log
+
+git push origin master

@@ -1,0 +1,9 @@
+git checkout SHADuCommit
+
+git checkout master
+
+git revert SHADuCommit
+
+git commit --amend -m "Votre nouveau message"
+
+git reset --hard
