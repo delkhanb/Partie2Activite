@@ -1,6 +1,6 @@
 git checkout SHADuCommit
 
-git checkout master
+
 
 git revert SHADuCommit
 
