@@ -1,13 +1,13 @@
 cmd git:
 
-git init
+git init  --> initialisation git
 
-git add .
+git add .  --> ajouter a l'index git
 
-git commit -m "message"
+git commit -m "message" --> commiter les modification avec un message pour se retrouver apres
 
-git -a -m "message"
+git -a -m "message" --> commiter et mettre ajour 
 
-git log
+git log --> afficher les log git
 
-git push origin master
+git push origin master --> envoyer son repo sur le repo origine
